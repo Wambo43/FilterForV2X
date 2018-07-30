@@ -1,0 +1,16 @@
+H:\workspace\Projects\ProjektMArbeit\ProjektMArbeit\bin\Debug\ProjektMArbeit.exe
+H:\workspace\Projects\ProjektMArbeit\ProjektMArbeit\bin\Debug\ProjektMArbeit.pdb
+H:\workspace\Projects\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.csprojResolveAssemblyReference.cache
+H:\workspace\Projects\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.exe
+H:\workspace\Projects\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.pdb
+D:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.csprojResolveAssemblyReference.cache
+D:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.csproj.CoreCompileInputs.cache
+D:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.exe
+D:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.pdb
+D:\FHE\ProjektMArbeit\ProjektMArbeit\bin\Debug\ProjektMArbeit.exe
+D:\FHE\ProjektMArbeit\ProjektMArbeit\bin\Debug\ProjektMArbeit.pdb
+J:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.exe
+J:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.pdb
+J:\FHE\ProjektMArbeit\ProjektMArbeit\bin\Debug\ProjektMArbeit.exe
+J:\FHE\ProjektMArbeit\ProjektMArbeit\bin\Debug\ProjektMArbeit.pdb
+J:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Debug\ProjektMArbeit.csprojResolveAssemblyReference.cache

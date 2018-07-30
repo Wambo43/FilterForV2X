@@ -1,0 +1,5 @@
+J:\FHE\ProjektMArbeit\ProjektMArbeit\bin\Release\ProjektMArbeit.exe
+J:\FHE\ProjektMArbeit\ProjektMArbeit\bin\Release\ProjektMArbeit.pdb
+J:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Release\ProjektMArbeit.csprojResolveAssemblyReference.cache
+J:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Release\ProjektMArbeit.exe
+J:\FHE\ProjektMArbeit\ProjektMArbeit\obj\Release\ProjektMArbeit.pdb
